@@ -14,7 +14,6 @@ public class MonthDay {
 
         scanner.close();
 
-
         int days;
         switch (month) {
             case 2:
